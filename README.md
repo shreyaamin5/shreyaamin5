@@ -81,9 +81,10 @@ const shreya = {
 
 | 🚀 Project | 📖 Description | 💻 Tech Stack |
 |------------|---------------|---------------|
-| 🩸 Blood Bank Management System | Complete Blood Bank Web Application | React • Node.js • Express • MySQL |
-| 📊 Student Performance Prediction | Machine Learning Prediction System | Python • ML |
-| 🎬 Movie Recommendation System | Personalized Movie Recommendation | Python |
+| 🎓 Placement Management System | A full-stack web application that streamlines campus placement activities with secure authentication, student profiles, company management, job postings, applications, and an admin dashboard. | React.js • Node.js • Express.js • MySQL |
+| 🩸 Blood Bank Management System | A web application for managing blood donors, blood requests, inventory, and administrator operations with secure authentication. | React.js • Node.js • Express.js • MySQL |
+| 📊 Student Performance Prediction | A machine learning project that predicts student performance using academic and behavioral data. | Python • Machine Learning |
+| 🎬 Movie Recommendation System | A recommendation system that suggests personalized movies based on user interests and preferences. | Python • Machine Learning |
 
 ---
 
