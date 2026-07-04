@@ -87,6 +87,35 @@ const shreya = {
 | 🎬 Movie Recommendation System | A recommendation system that suggests personalized movies based on user interests and preferences. | Python • Machine Learning |
 
 ---
+<div align="center">
+
+## 🎯 Current Focus
+
+| 🚀 Focus Area | 📌 Status |
+|--------------|-----------|
+| 🎓 Placement Management System | Building |
+| 💻 Data Structures & Algorithms | Learning Daily |
+| 🌐 Full Stack Development | React.js • Node.js • Express.js |
+| 🗄️ Database Management | MySQL |
+| ☁️ Cloud Computing | Microsoft Azure Fundamentals |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Certifications & Experience
+
+🥇 **Microsoft Azure Fundamentals**
+
+💼 **Full Stack Development Intern**  
+**Accolade Tech Solutions**
+
+🎤 **Paper Presentation Participant**  
+**Tech Yuva 2026**
+
+</div>
 
 # 📈 GitHub Analytics
 
